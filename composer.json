@@ -1,6 +1,6 @@
 {
-	"name": "greenpeace/planet4-child-theme-hungary",
-	"description": "Child theme for the Hungary website of the Planet 4 Wordpress project",
+	"name": "greenpeace/planet4-child-theme-bulgaria",
+	"description": "Child theme for the Bulgaria website of the Planet 4 Wordpress project",
 	"type":"wordpress-theme",
 	"minimum-stability" : "stable",
 	"authors": [
@@ -17,9 +17,9 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/greenpeace/planet4-child-theme-hungary/issues",
-		"wiki": "https://github.com/greenpeace/planet4-child-theme-hungary/wiki",
-		"source": "https://github.com/greenpeace/planet4-child-theme-hungary"
+		"issues": "https://github.com/greenpeace/planet4-child-theme-bulgaria/issues",
+		"wiki": "https://github.com/greenpeace/planet4-child-theme-bulgaria/wiki",
+		"source": "https://github.com/greenpeace/planet4-child-theme-bulgaria"
 	},
 	"extra": {
 		"installer-paths": {
